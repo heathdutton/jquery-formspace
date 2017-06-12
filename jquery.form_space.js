@@ -1,5 +1,6 @@
 /**
  * jQuery Form Space
+ * https://github.com/heathdutton/jquery-formspace
  *
  * Copyright 2017, Heath Dutton
  * Licensed under the MIT license.
