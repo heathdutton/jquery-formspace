@@ -1,8 +1,8 @@
 {
   "name": "jquery-formspace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hides fixed navigation when form fields are focused to conserve space on smaller screens.",
-  "main": "jquery.form_space.js",
+  "main": "jquery.formspace.js",
   "directories": {
     "example": "example"
   },
@@ -19,8 +19,14 @@
     "Forms",
     "Fields"
   ],
-  "author": "Heath Dutton",
+  "author": {
+    "name": "Heath Dutton",
+    "url": "http://heathdutton.com"
+  },
   "license": "MIT",
+  "peerDependencies": {
+    "jquery": "*"
+  },
   "bugs": {
     "url": "https://github.com/heathdutton/jquery-formspace/issues"
   },

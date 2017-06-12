@@ -13,7 +13,7 @@ After:
 Include jQuery (1.11+) and the plugin on the page:
 ```html
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-<script src="https://cdn.rawgit.com/heathdutton/jquery-formspace/master/jquery.form_space.min.js"></script>
+<script src="https://cdn.rawgit.com/heathdutton/jquery-formspace/master/src/jquery.formspace.min.js"></script>
 ```
 And run the library as needed in the body:
 ```html
